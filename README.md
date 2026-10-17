@@ -12,7 +12,7 @@
 
 I am a **Software Developer** focused on full-stack development, building structured, scalable, and maintainable applications and systems.
 
-- **Architecture:** Monolith, MVC, and N-Tier architecture for clarity and scalability
+- **Architecture:** Monolith, MVC, and Layered architecture for clarity and scalability
 - **API Design:** Designing clean, structured, and secure RESTful APIs
 - **Preferred Stack:** Full-stack development with the **VILT stack** (Vue.js, Inertia.js, Laravel, Tailwind CSS)
 - **Growth:** Continuously expanding skills in system design, modern software practices, and mobile development
